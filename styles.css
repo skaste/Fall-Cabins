@@ -15,6 +15,7 @@ a:link, a:visited{
   text-decoration: none;
   display: inline-block;
   font-family: audrey;
+  border-radius: 25px;
 }
 a:hover, a:active{
   background-color: #ffc815;
