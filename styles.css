@@ -35,3 +35,11 @@ h1{
 nav{
   text-align: center;
 }
+.benefits{
+  display: inline-block;
+  vertical-align: middle;
+}
+.how-to{
+  display: inline-block;
+  vertical-align: middle;
+}
